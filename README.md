@@ -1,6 +1,6 @@
 # slack-bert-topics
 
-## Problem
+## Problem 
 
 Slack channel descriptions quickly become stale because they’re written once at creation and seldom updated. As conversations evolve, these static blurbs fail to capture the channel’s current focus or key topics. This leaves team members without a clear, up‑to‑date summary of what each channel is really about without reading every thread and staying current on real-time conversations. 
 
