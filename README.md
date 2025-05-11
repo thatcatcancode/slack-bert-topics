@@ -2,9 +2,10 @@
 
 ## Problem
 
-<img width="573" alt="Screenshot 2025-05-11 at 4 06 19 PM" src="https://github.com/user-attachments/assets/c1e3d5d2-6146-45dd-99dc-b7894c433469" />
+<img width="573" alt="Screenshot 2025-05-11 at 4 09 03 PM" src="https://github.com/user-attachments/assets/d2b0a0c7-da33-47d4-9bc3-5410c7dc54c3" />
 
-Slack channel descriptions are optional and if they are specificed, they quickly become stale because they’re written once at creation and seldom updated. As conversations evolve, these static blurbs fail to capture the channel’s current focus or key topics. This leaves team members without a clear, up‑to‑date summary of what each channel is really about. Instead, members must read every thread to stay current on real-time conversations, which ultimately leads to a loss of productivity. 
+
+Slack channel descriptions are optional and if they are specificed, they quickly become stale because they’re written once at creation and seldom updated. As conversations evolve, these static blurbs fail to capture the channel’s current focus or key topics. This leaves team members without a clear, up‑to‑date summary of what each channel is really about. Instead, members must read every thread to stay current on real-time conversations, which leads to a loss of productivity. 
 
 ## Solution 
 
